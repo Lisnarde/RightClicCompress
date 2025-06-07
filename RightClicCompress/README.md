@@ -7,7 +7,7 @@
 
 # Contenu
   
-RightClicCompress/
+RightClicCompress/  
 ├── compresser_mp4.bat        # Script de compression  
 ├── HandBrakeCLI.exe          # Exécutable qui compresse une vidéo  
 ├── install.bat               # Script d'installation du menu contextuel  
