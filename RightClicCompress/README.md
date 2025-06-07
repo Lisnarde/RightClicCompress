@@ -7,11 +7,12 @@
 
 # Contenu
 
-- compresser_mp4.bat
-- HandBrakeCLI.exe
-- install.bat
-- uninstall.reg
-- README.md
+- RightClicCompress
+  - compresser_mp4.bat
+  - HandBrakeCLI.exe
+  - install.bat
+  - uninstall.reg
+  - README.md
 
 # Installation
 
