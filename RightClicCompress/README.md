@@ -6,15 +6,14 @@
 - Rapide d'utilisation et efficace
 
 # Contenu
-
+  
 RightClicCompress/
-├── compresser_mp4.bat        # Script de compression
-├── HandBrakeCLI.exe          # Exécutable qui compresse une vidéo
-├── install.bat               # Script d'installation du menu contextuel
-├── uninstall.reg             # Script de désinstallation du menu contextuel
-├── README.md                 # Documentation
-
-
+├── compresser_mp4.bat        # Script de compression  
+├── HandBrakeCLI.exe          # Exécutable qui compresse une vidéo  
+├── install.bat               # Script d'installation du menu contextuel  
+├── uninstall.reg             # Script de désinstallation du menu contextuel  
+├── README.md                 # Documentation  
+  
 # Installation
 
 - placer le dossier RightClicCompress dans un dossier qui ne va pas bouger : Program Files, Desktop, Docs, etc
