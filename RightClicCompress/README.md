@@ -7,12 +7,13 @@
 
 # Contenu
 
-- RightClicCompress
-  - compresser_mp4.bat
-  - HandBrakeCLI.exe
-  - install.bat
-  - uninstall.reg
-  - README.md
+RightClicCompress/
+├── compresser_mp4.bat        # Script de compression
+├── HandBrakeCLI.exe          # Exécutable qui compresse une vidéo
+├── install.bat               # Script d'installation du menu contextuel
+├── uninstall.reg             # Script de désinstallation du menu contextuel
+├── README.md                 # Documentation
+
 
 # Installation
 
